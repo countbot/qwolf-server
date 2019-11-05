@@ -1,0 +1,15 @@
+{
+  "name": "qwolf-server",
+  "version": "0.1.0",
+  "description": "Backend for GroupMe Quantum Werewolves Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/countbot/qwolf-server.git"
+  },
+  "author": "Stephan Dober",
+  "license": "MIT"
+}
